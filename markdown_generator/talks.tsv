@@ -1,3 +1,3 @@
-title	type	url_slug	venue	date	location	talk_url	description
-Lagrangian Spatio-Temporal Nonstationary Covariance Functions	Talk	talk-2	Philadelphia, Pennsylvania, USA	2020-08-05	San Francisco, California		This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Spatio-Temporal Cross-Covariance Functions under the Lagrangian Framework	Talk	talk-1	Denver, Colorado, USA	2019-07-30	Berkeley CA, USA	http://exampleurl.com	This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+title	type	url_slug	venue	date	talk_url	description
+Lagrangian Spatio-Temporal Nonstationary Covariance Functions	Talk	talk-2	Philadelphia, Pennsylvania, USA	2020-08-05	This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+Spatio-Temporal Cross-Covariance Functions under the Lagrangian Framework	Talk	talk-1	Denver, Colorado, USA	2019-07-30	http://exampleurl.com	This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
