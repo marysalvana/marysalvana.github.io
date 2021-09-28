@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Mary Lai, a Filipino statistician based in Houston, Texas. I am a Postdoctoral Fellow at the Department of Mathematics, University of Houston. Prior to joining University of Houston in 2021, I was a PhD student in the Spatio-Temporal Statistics group at the King Abdullah University of Science and Technology (KAUST), Saudi Arabia.
+Hi! I'm Mary Lai, a Filipino :philippines: statistician based in Houston, Texas. I am a Postdoctoral Fellow at the Department of Mathematics, University of Houston. Prior to joining University of Houston in 2021, I was a PhD student in the Spatio-Temporal Statistics group at the King Abdullah University of Science and Technology (KAUST), Saudi Arabia.
 
 Work and Research
 ======
