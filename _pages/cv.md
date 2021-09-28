@@ -11,30 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Statistics, King Abdullah University of Science and Technology, Jeddah, Saudi Arabia, June 2021
+* M.S. in Applied Mathematics, Ateneo de Manila University, Manila, Philippines, 2016
+* B.S. in Applied Mathematics, Ateneo de Manila University, Manila, Philippines, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Teaching Assistant, Linear Models (2020)
+  * Supervisor: Professor Hernando Ombao
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages and Frameworks: R, C, C++, Bash, Python, Matlab, HTML
+* Operating Systems: Ubuntu Linux, Unix, Mac OS, Windows
 
 Publications
 ======
@@ -48,12 +37,3 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
