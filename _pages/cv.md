@@ -17,6 +17,8 @@ Education
 
 Work experience
 ======
+* Postdoctoral Researcher, University of Houston (Aug 2021 - July 2023)
+  * Supervisor: Professor Mikyoung Jun
 * Teaching Assistant, Linear Models (2020)
   * Supervisor: Professor Hernando Ombao
 
