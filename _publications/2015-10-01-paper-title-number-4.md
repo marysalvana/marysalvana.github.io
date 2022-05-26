@@ -25,5 +25,5 @@ citation: 'Salvaña, M. L. O., Lenzi, A., & Genton, M. G. (2022). &quot;Spatio-t
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://marysalvana.github.io/files/jasa.pdf)
+[Download paper here](http://marysalvana.github.io/files/jasa_arxiv.pdf)
 
