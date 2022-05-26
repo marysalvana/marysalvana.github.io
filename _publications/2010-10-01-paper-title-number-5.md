@@ -6,7 +6,7 @@ excerpt: 'Gaussian geostatistical space-time modeling is an effective tool for p
 date: 2022-10-01
 venue: 'Proceedings of the Platform for Advanced Scientific Computing Conference (PASC)'
 paperurl: 'http://marysalvana.github.io/files/pasc.pdf'
-citation: 'Salvaña, M. L. O., Abdulah, S., Ltaief, H., Sun, Y., Genton, M. G., & Keyes, D. E. (2022). &quot;Massively parallel likelihood function optimization to accelerate air pollution prediction on large-scale systems.&quot; <i>Proceedings of the Platform for Advanced Scientific Computing Conference, PASC 2022 (to appear)</i>.'
+citation: 'Salvaña, M. L. O., Abdulah, S., Ltaief, H., Sun, Y., Genton, M. G., & Keyes, D. E. (2022). &quot;Massively parallel likelihood function optimization to accelerate air pollution prediction on large-scale systems.&quot; <i>Proceedings of the Platform for Advanced Scientific Computing Conference (to appear)</i>.'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
