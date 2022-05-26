@@ -17,6 +17,8 @@ Work experience
 * Teaching Assistant, Linear Models (2020)
   * Supervisor: Professor Hernando Ombao
 
+[Website] (https://sites.google.com/view/mikyoung-jun/home)
+
 Publications
 ======
   <ul>{% for post in site.publications %}
