@@ -21,10 +21,10 @@ Saudi Arabia.'
 date: 2021-10-01
 venue: 'Under Revision'
 paperurl: 'http://marysalvana.github.io/files/jasa.pdf'
-citation: 'Salvaña, M. L. O., Lenzi, A., & Genton, M. G. (2021). &quot;Spatio-temporal cross-covariance functions under the Lagrangian framework with Multiple Advections.&quot; Under revision.'
+citation: 'Salvaña, M. L. O., Lenzi, A., & Genton, M. G. (2021). &quot;Spatio-temporal cross-covariance functions under the Lagrangian framework with multiple advections.&quot; Under revision.'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
 [Download paper here](http://marysalvana.github.io/files/jasa.pdf)
 
-Recommended citation: Salvaña, M. L. O., Lenzi, A., & Genton, M. G. (2021). "Spatio-temporal cross-covariance functions under the Lagrangian framework with Multiple Advections." <i>Under revision</i>.
+Recommended citation: Salvaña, M. L. O., Lenzi, A., & Genton, M. G. (2020). "Spatio-temporal cross-covariance functions under the Lagrangian framework with multiple advections." <i>Journal of the American Statistical Association (to appear)</i>.
