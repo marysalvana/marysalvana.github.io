@@ -21,7 +21,7 @@ Saudi Arabia.'
 date: 2022-05-01
 venue: 'Journal of the American Statistical Association'
 paperurl: 'http://marysalvana.github.io/files/jasa.pdf'
-citation: 'Salvaña, M. L. O., Lenzi, A., & Genton, M. G. (2021). &quot;Spatio-temporal cross-covariance functions under the Lagrangian framework with multiple advections.&quot; <i>Journal of the American Statistical Association (to appear)</i>.'
+citation: 'Salvaña, M. L. O., Lenzi, A., & Genton, M. G. (2022). &quot;Spatio-temporal cross-covariance functions under the Lagrangian framework with multiple advections.&quot; <i>Journal of the American Statistical Association (to appear)</i>.'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
