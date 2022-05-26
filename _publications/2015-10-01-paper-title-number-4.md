@@ -18,13 +18,12 @@ viable approach in modeling realistic multivariate transport scenarios. In this 
 a class of Lagrangian spatio-temporal cross-covariance functions with multiple advections, study
 its properties, and demonstrate its use on a bivariate pollutant dataset of particulate matter in
 Saudi Arabia.'
-date: 2021-10-01
-venue: 'Under Revision'
+date: 2022-05-01
+venue: 'Journal of the American Statistical Association'
 paperurl: 'http://marysalvana.github.io/files/jasa.pdf'
-citation: 'Salvaña, M. L. O., Lenzi, A., & Genton, M. G. (2021). &quot;Spatio-temporal cross-covariance functions under the Lagrangian framework with multiple advections.&quot; Under revision.'
+citation: 'Salvaña, M. L. O., Lenzi, A., & Genton, M. G. (2021). &quot;Spatio-temporal cross-covariance functions under the Lagrangian framework with multiple advections.&quot; Journal of the American Statistical Association (to appear).'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
 [Download paper here](http://marysalvana.github.io/files/jasa.pdf)
 
-Recommended citation: Salvaña, M. L. O., Lenzi, A., & Genton, M. G. (2020). "Spatio-temporal cross-covariance functions under the Lagrangian framework with multiple advections." <i>Journal of the American Statistical Association (to appear)</i>.
