@@ -13,11 +13,8 @@ Work experience
 ======
 * Postdoctoral Researcher, University of Houston (Aug 2021 - July 2023)
   * Supervisor: Professor Mikyoung Jun 
-  [Website] (https://sites.google.com/view/mikyoung-jun/home)
 * Teaching Assistant, Linear Models (2020)
   * Supervisor: Professor Hernando Ombao
-
-[Website] (https://sites.google.com/view/mikyoung-jun/home)
 
 Publications
 ======
