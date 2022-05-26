@@ -34,6 +34,10 @@ Education
 * M.S. in Applied Mathematics, Ateneo de Manila University, Manila, Philippines, 2016
 * B.S. in Applied Mathematics, Ateneo de Manila University, Manila, Philippines, 2015
 
+Awards
+======
+* Al-Kindi Statistics Research Student Award, 2021
+
 Skills
 ======
 * Languages and Frameworks: R, C, C++, Bash, Python, Matlab, HTML
