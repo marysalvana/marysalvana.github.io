@@ -12,4 +12,4 @@ This paper is about the number 2. The number 3 is left for future work.
 
 [Download paper here](http://marysalvana.github.io/files/topc.pdf)
 
-Recommended citation: Salvaña, M. L. O., Abdulah, S., Ltaief, H., Sun, Y., Genton, M. G., & Keyes, D. E. (2021). "Massively parallel likelihood function optimization to accelerate air pollution prediction on large-scale systems." <i>Under revision</i>.
+Recommended citation: Salvaña, M. L. O., Abdulah, S., Ltaief, H., Sun, Y., Genton, M. G., & Keyes, D. E. (2021). "Massively parallel likelihood function optimization to accelerate air pollution prediction on large-scale systems." <i>Proceedings of the Platform for Advanced Scientific Computing Conference, PASC 2022 (to appear)</i>.
