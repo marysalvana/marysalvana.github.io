@@ -1,5 +1,5 @@
 ---
-title: "Spatio-temporal cross-covariance functions under the Lagrangian framework with Multiple Advections"
+title: "Spatio-temporal cross-covariance functions under the Lagrangian framework with multiple advections"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-4
 excerpt: 'When analyzing the spatio-temporal dependence in most environmental and earth sciences
