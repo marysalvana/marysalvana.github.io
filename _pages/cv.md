@@ -11,8 +11,12 @@ redirect_from:
 
 Work experience
 ======
-* Postdoctoral Researcher, University of Houston (Aug 2021 - July 2023)
+* Spatio-Temporal Statistics in 3-Dimensional Space Research (Aug 2021 - July 2023)
   * Supervisor: [Professor Mikyoung Jun](https://sites.google.com/view/mikyoung-jun/)
+* High Performance Computing for Spatio-Temporal Data Applications Research (Jan 2020 - present)
+  * Supervisors: [Professor Marc Genton](https://cemse.kaust.edu.sa/people/person/marc-g-genton) and [Dr. Sameh Abdulah](https://cemse.kaust.edu.sa/people/person/sameh-abdulah)
+* Spatio-Temporal Statistics Research (Jan 2017 - present)
+  * Supervisor: [Professor Marc Genton](https://cemse.kaust.edu.sa/people/person/marc-g-genton)
 * Teaching Assistant, Linear Models (2020)
   * Supervisor: [Professor Hernando Ombao](https://cemse.kaust.edu.sa/stat/people/person/hernando-ombao)
 
