@@ -1,7 +1,7 @@
 ---
 title: "Spatio-temporal cross-covariance functions under the Lagrangian framework with Multiple Advections"
 excerpt: "Supplementary Codes"
-collection: portfolio
+collection: codes
 ---
 [<img alt="alt_text" width="40px" src="images/GitHub_Logo.png" />](https://github.com/geostatistech/multiple-advections)
 
