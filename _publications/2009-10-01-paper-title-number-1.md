@@ -31,4 +31,3 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://marysalvana.github.io/files/spatial-statistics.pdf)
 
-Recommended citation: Salvaña, M. L. O., & Genton, M. G. (2020). "Nonstationary cross-covariance functions for multivariate spatio-temporal random fields." <i>Spatial Statistics</i>. 37, 100411.
