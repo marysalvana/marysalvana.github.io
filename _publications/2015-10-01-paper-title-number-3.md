@@ -28,4 +28,3 @@ This paper is about the number 3. The number 4 is left for future work.
 
 [Download paper here](http://marysalvana.github.io/files/2021_Book_AdvancesInContemporaryStatisti.pdf)
 
-Recommended citation: Salvaña, M. L. O., & Genton, M. G. (2021). "Lagrangian spatio-temporal nonstationary covariance functions." <i>Book Chapter in Advances in Contemporary Statistics and Econometrics, Festschrift for Prof. C. Thomas-Agnan.</i> 427-447.
