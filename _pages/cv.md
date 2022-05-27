@@ -12,7 +12,7 @@ redirect_from:
 Work experience
 ======
 * Postdoctoral Researcher, University of Houston (Aug 2021 - July 2023)
-  * Supervisor: Professor Mikyoung Jun 
+  * Supervisor: [Professor Mikyoung Jun](https://sites.google.com/view/mikyoung-jun/)
 * Teaching Assistant, Linear Models (2020)
   * Supervisor: [Professor Hernando Ombao](https://cemse.kaust.edu.sa/stat/people/person/hernando-ombao)
 
