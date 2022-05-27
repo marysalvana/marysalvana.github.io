@@ -1,7 +1,7 @@
 ---
 title: "Spatio-temporal cross-covariance functions under the Lagrangian framework with Multiple Advections"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2015-10-01-paper-title-number-4
 excerpt: 'When analyzing the spatio-temporal dependence in most environmental and earth sciences
 variables such as pollutant concentrations at different levels of the atmosphere, a special property
 is observed: the covariances and cross-covariances are stronger in certain directions. This
