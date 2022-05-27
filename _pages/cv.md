@@ -36,7 +36,7 @@ Education
 
 Awards
 ======
-* Al-Kindi Statistics Research Student Award, 2021
+* [Al-Kindi Statistics Research Student Award](https://cemse.kaust.edu.sa/stat/al-kindi-student-awards), 2021
 
 Skills
 ======
