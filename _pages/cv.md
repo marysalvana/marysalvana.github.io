@@ -17,7 +17,7 @@ Work experience
   * Supervisors: [Professor Marc Genton](https://cemse.kaust.edu.sa/people/person/marc-g-genton) and [Dr. Sameh Abdulah](https://cemse.kaust.edu.sa/people/person/sameh-abdulah)
 * Spatio-Temporal Statistics Research (Jan 2017 - present)
   * Supervisor: [Professor Marc Genton](https://cemse.kaust.edu.sa/people/person/marc-g-genton)
-* Teaching Assistant, Linear Models (2020)
+* Linear Models Teaching Assistant (2020)
   * Supervisor: [Professor Hernando Ombao](https://cemse.kaust.edu.sa/stat/people/person/hernando-ombao)
 
 Publications
