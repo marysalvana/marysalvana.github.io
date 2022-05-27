@@ -14,9 +14,7 @@ Work experience
 * Postdoctoral Researcher, University of Houston (Aug 2021 - July 2023)
   * Supervisor: Professor Mikyoung Jun 
 * Teaching Assistant, Linear Models (2020)
-  * Supervisor: Professor Hernando Ombao
-[Professor Hernando Ombao](https://cemse.kaust.edu.sa/stat/people/person/hernando-ombao)
-[<img alt="alt_text" width="40px" src="images/500x300.png" />](https://cemse.kaust.edu.sa/stat/people/person/hernando-ombao)
+  * Supervisor: [Professor Hernando Ombao](https://cemse.kaust.edu.sa/stat/people/person/hernando-ombao)
 
 Publications
 ======
