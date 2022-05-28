@@ -190,6 +190,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  news:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -243,6 +246,15 @@ defaults:
   - scope:
       path: ""
       type: codes
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _news
+  - scope:
+      path: ""
+      type: news
     values:
       layout: single
       author_profile: true
