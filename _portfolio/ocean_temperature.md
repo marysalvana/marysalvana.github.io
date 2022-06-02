@@ -1,5 +1,5 @@
 ---
 title: "Ocean Temperature"
-excerpt: "Supplementary Codes"
+excerpt: "<img src='/images/ocean_temp_world.gif'>"
 collection: portfolio
 ---
