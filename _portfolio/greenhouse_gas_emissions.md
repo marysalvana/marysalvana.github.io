@@ -1,5 +1,5 @@
 ---
 title: "Greenhouse Gases Emissions"
-excerpt: "<img src='/images/co2_world.gif'>"
+excerpt: "<img height="1000px" width="500px" src='/images/co2_world.gif'>"
 collection: portfolio
 ---
