@@ -1,5 +1,5 @@
 ---
 title: "Ocean Salinity"
-excerpt: "Supplementary Codes"
+excerpt: "<img src='/images/ocean_psal_world.gif'>"
 collection: portfolio
 ---
