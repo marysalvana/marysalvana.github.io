@@ -1,5 +1,5 @@
 ---
 title: "Precipitation"
-excerpt: "Supplementary Codes"
+excerpt: "<img src='/images/precipitation.gif'>"
 collection: portfolio
 ---
