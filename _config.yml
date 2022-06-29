@@ -193,6 +193,9 @@ collections:
   news:
     output: true
     permalink: /:collection/:path/
+  videos:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
