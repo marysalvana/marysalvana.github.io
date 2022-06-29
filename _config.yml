@@ -265,7 +265,15 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: single
+      author_profile: true
+      share: true
+  # _videos
+  - scope:
+      path: ""
+      type: videos
+    values:
+      layout: single
       author_profile: true
       share: true
 
