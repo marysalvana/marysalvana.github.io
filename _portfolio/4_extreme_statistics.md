@@ -5,5 +5,9 @@ collection: portfolio
 ---
 
 <img src='/images/extreme_statistics/website_AIC_ExtremeStatistics-01.png'>
+<img src='/images/extreme_statistics/website_AIC_ExtremeStatistics-02.png'>
+<img src='/images/extreme_statistics/website_AIC_ExtremeStatistics-03.png'>
+<img src='/images/extreme_statistics/website_AIC_ExtremeStatistics-04.png'>
+<img src='/images/extreme_statistics/website_AIC_ExtremeStatistics-05.png'>
 
 
