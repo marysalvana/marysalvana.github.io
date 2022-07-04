@@ -1,9 +1,9 @@
 ---
 title: "Multivariate Spatio-Temporal Geostatistics"
-excerpt: "<table> 
+excerpt: "<table style="border-collapse: collapse; border: none;"> 
 	<tr> 
-		<td style="border: none;"><img src='/images/dust_mass.gif'></td> 
-		<td style="border: none;"><img src='/images/black_carbon.gif'></td> 
+		<td><img src='/images/dust_mass.gif'></td> 
+		<td><img src='/images/black_carbon.gif'></td> 
 	</tr> 
 </table>"
 collection: portfolio
