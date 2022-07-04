@@ -1,5 +1,5 @@
 ---
 title: "Multivariate Spatio-Temporal Geostatistics"
-excerpt: "<img src='/images/co2_world.gif'>"
+excerpt: "<img src='/images/dust_mass.gif'>"
 collection: portfolio
 ---
