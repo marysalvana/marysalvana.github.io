@@ -16,7 +16,8 @@ collection: portfolio
 <img src='/images/extreme_statistics/website_AIC_ExtremeStatistics-09.png' width="1000">
 <img src='/images/extreme_statistics/website_AIC_ExtremeStatistics-10.png' width="1000">
 <img src='/images/extreme_statistics/website_AIC_ExtremeStatistics-11.png' width="1000">
-<img src='/images/extreme_statistics/website_AIC_ExtremeStatistics-12.png' width="1000">
+<img src='/images/extreme_statistics/website_AIC_ExtremeStatistics-12-a.png' width="1000">
+<img src='/images/extreme_statistics/website_AIC_ExtremeStatistics-12-b.png' width="1000">
 <img src='/images/extreme_statistics/website_AIC_ExtremeStatistics-13.png' width="1000">
 <img src='/images/extreme_statistics/website_AIC_ExtremeStatistics-14.png' width="1000">
 <img src='/images/extreme_statistics/website_AIC_ExtremeStatistics-15.png' width="1000">
