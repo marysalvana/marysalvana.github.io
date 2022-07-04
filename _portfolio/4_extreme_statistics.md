@@ -5,6 +5,7 @@ collection: portfolio
 ---
 
 <img src='/images/extreme_statistics/website_AIC_ExtremeStatistics-01-a.png' width="1000">
+<iframe width="863" height="485" src="https://www.youtube.com/embed/1YigIVWMPHM" title="Watching the Land Temperature Bell Curve Heat Up (1950-2020)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <img src='/images/extreme_statistics/website_AIC_ExtremeStatistics-01.png' width="1000">
 <img src='/images/extreme_statistics/website_AIC_ExtremeStatistics-02.png' width="1000">
 <img src='/images/extreme_statistics/website_AIC_ExtremeStatistics-03.png' width="1000">
