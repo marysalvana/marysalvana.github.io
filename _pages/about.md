@@ -12,9 +12,12 @@ Hi! I'm Mary Lai, a Filipino statistician based in Houston, Texas. I am a Postdo
 
 Work and Research
 ======
-I use spatio-temporal geostatistical methods to model and predict Gaussian spatio-temporal processes. These methods aim to understand the dependence in a Gaussian spatio-temporal process across space and time by seeking correlations and they are adequate for many real-life spatio-temporal phenomena. My Ph.D. dissertation was about constructing univariate and multivariate, stationary and nonstationary spatio-temporal covariance functions with emphasis on transport phenomenon. I applied my methods on a variety of environmental datasets such as wind speeds, temperature, pressure, and particulate matter. 
+I use spatio-temporal geostatistical methods to model and predict Gaussian spatio-temporal processes. These methods aim to understand the dependence in a Gaussian spatio-temporal process across space and time by seeking correlations and they are adequate for many real-life spatio-temporal phenomena. My Ph.D. dissertation was about constructing univariate and multivariate, stationary and nonstationary spatio-temporal covariance functions with emphasis on transport phenomenon. I applied my methods on a variety of environmental datasets such as wind speeds, temperature, precipitation, and particulate matter. 
 
-I also have enough expertise in high performance computing for spatio-temporal data applications. My previous works in this area include modeling and prediction on 500,000 locations.
+I also have expertise in high performance computing for spatio-temporal data applications. My previous works in this area include modeling and prediction on 500,000 space-time locations.
+
+My research interest is on data-driven climate change modeling and forecasting and uncertainty quantification using geostatistical methods and deep learning models.
+
 
 Educational Background
 ------
