@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "mary / lai / mary lai"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. in Statistics \n Climate Change and Sports"
+  bio              : "Ph.D. in Statistics\ 
+                    Climate Change and Sports"
   location         : "Houston, TX"
   employer         :
   pubmed           : 
