@@ -25,5 +25,5 @@ I received my BS and MS degrees in applied mathematics from Ateneo de Manila Uni
 
 Research Interests
 ------
-My research interests include multivariate spatio-temporal statistics and high-performance computing for large spatial and spatio-temporal datasets.
+My research interests include climate statistics, spatio-temporal statistics, extreme statistics, high-performance computing, big data, multivariate analysis, deep learning, machine learning, data science \& visualization, cascading disasters, risk management.
 
