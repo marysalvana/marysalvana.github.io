@@ -185,7 +185,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  blog:
+  posts:
     output: true
     permalink: /:collection/:path/
   codes:
