@@ -10,7 +10,7 @@ main:
     url: /codes/
 
   - title: "Blog"
-    url: /posts/
+    url: /year-archive/
 
   - title: "Talks"
     url: /talks/    
