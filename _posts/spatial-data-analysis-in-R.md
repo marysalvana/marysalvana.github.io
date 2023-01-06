@@ -2,7 +2,7 @@
 title: 'How To Do Spatial Data Analysis in R'
 excerpt: "" 
 date: 2023-01-01
-permalink: /posts/2023/01/spatial-data-analysis-in-R/
+permalink: /posts/2023/01/blog-post-1/
 tags:
   - spatial
   - data analysis
